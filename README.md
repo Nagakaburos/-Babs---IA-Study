@@ -6,9 +6,11 @@ Foco:
     Expansivel.
 
 Tecnologias:
-    Reconhecimento de voz
+    Reconhecimento de voz:(Google,)
     Sintese de voz
     IA
+
+
 
  this project is a study of the "maria project" developed by the Codigo Logo channel.
 please follow it: 
